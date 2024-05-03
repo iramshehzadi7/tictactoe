@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+td{
+    height: 150px;
+    width: 150px;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px;
+    color:aqua
+}
+table{
+    margin-left: 30%;
+    margin-top: 2%;
+}
+h1{
+    color: red;
+    margin-top: 2%;
+}
